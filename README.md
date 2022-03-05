@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding obviously.
 - 🌱 I’m currently learning html and css but I've already learned some basic C++!
 - 💞️ I’m looking to collaborate with others in my coding group on a community garden website!
-- 📫 How to reach me: not to be rude but don't as this is a private group project, 
+- 📫 How to reach me: not to be rude but don't as this is a private group project.
 - 🤗 Thank You, Github!
 
 <!---
